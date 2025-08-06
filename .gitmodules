@@ -1,0 +1,36 @@
+[submodule "react-lifecycle-logger"]
+	path = react-lifecycle-logger
+	url = git@github.com:manulzvz/react-lifecycle-logger.git
+[submodule "memory-card"]
+	path = memory-card
+	url = git@github.com:manulzvz/memory-card.git
+[submodule "cv-application"]
+	path = cv-application
+	url = git@github.com:manulzvz/cv-application.git
+[submodule "homepage"]
+	path = homepage
+	url = git@github.com:manulzvz/homepage.git
+[submodule "weather-app"]
+	path = weather-app
+	url = git@github.com:manulzvz/weather-app.git
+[submodule "to-do-list"]
+	path = to-do-list
+	url = git@github.com:manulzvz/to-do-list.git
+[submodule "battleship"]
+	path = battleship
+	url = git@github.com:manulzvz/battleship.git
+[submodule "library"]
+	path = library
+	url = git@github.com:manulzvz/library.git
+[submodule "tic-tac-toe"]
+	path = tic-tac-toe
+	url = git@github.com:manulzvz/tic-tac-toe.git
+[submodule "signup-form"]
+	path = signup-form
+	url = git@github.com:manulzvz/signup-form.git
+[submodule "calculator"]
+	path = calculator
+	url = git@github.com:manulzvz/calculator.git
+[submodule "etch-a-sketch"]
+	path = etch-a-sketch
+	url = git@github.com:manulzvz/etch-a-sketch.git
