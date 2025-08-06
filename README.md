@@ -36,17 +36,17 @@ Este repositorio agrupa mis proyectos de aprendizaje como submódulos y los clas
 ## 3. Cómo trabajar con submódulos
 
 1. Clona este repositorio con todos los submódulos:
+
    ```bash
    git clone --recursive git@github.com:manulzvz/learning.git
    ```
-
-````
 
 2. Si ya lo clonaste sin `--recursive`, inicializa y descarga:
 
    ```bash
    git submodule update --init --recursive
    ```
+
 3. Para agregar nuevos proyectos:
 
    ```bash
@@ -54,4 +54,3 @@ Este repositorio agrupa mis proyectos de aprendizaje como submódulos y los clas
    git commit -m "Agrega <nombre-proyecto> como submódulo"
    git push
    ```
-````
