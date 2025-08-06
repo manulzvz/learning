@@ -10,7 +10,7 @@ This repository gathers my learning projects as submodules and classifies them a
 | --- | ---------------------- | ------------------------- |
 | 1   | etch-a-sketch          | `etch-a-sketch/`          |
 | 2   | homepage               | `homepage/`               |
-| 3   | js-battleship          | `js-battleship/`          |
+| 3   | battleship             | `battleship/`             |
 | 4   | library                | `library/`                |
 | 5   | memory-card            | `memory-card/`            |
 | 6   | cv-application         | `cv-application/`         |
@@ -55,6 +55,5 @@ This repository gathers my learning projects as submodules and classifies them a
    git commit -m "Add <project-name> as submodule"
    git push
    ```
-
 
 ````
