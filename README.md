@@ -13,7 +13,7 @@ Este repositorio agrupa mis proyectos de aprendizaje como submódulos y los clas
 | 3   | js-battleship          | `js-battleship/`          |
 | 4   | library                | `library/`                |
 | 5   | memory-card            | `memory-card/`            |
-| 6   | react-cv-application   | `react-cv-application/`   |
+| 6   | cv-application         | `cv-application/`         |
 | 7   | react-lifecycle-logger | `react-lifecycle-logger/` |
 | 8   | restaurant-page        | `restaurant-page/`        |
 | 9   | signup-form            | `signup-form/`            |
