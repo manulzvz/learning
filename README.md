@@ -1,12 +1,12 @@
 # Learning
 
-Este repositorio agrupa mis proyectos de aprendizaje como submódulos y los clasifica según las tecnologías principales utilizadas.
+This repository gathers my learning projects as submodules and classifies them according to the primary technologies used.
 
 ---
 
-## 1. Índice de proyectos
+## 1. Project Index
 
-| #   | Proyecto               | Ruta                      |
+| #   | Project                | Path                      |
 | --- | ---------------------- | ------------------------- |
 | 1   | etch-a-sketch          | `etch-a-sketch/`          |
 | 2   | homepage               | `homepage/`               |
@@ -23,34 +23,38 @@ Este repositorio agrupa mis proyectos de aprendizaje como submódulos y los clas
 
 ---
 
-## 2. Clasificación por tecnología
+## 2. Technology Classification
 
-| Tecnología                       | Proyectos (índices) |
-| -------------------------------- | ------------------- |
-| **React**                        | 6, 7, 12            |
-| **Páginas estáticas (HTML/CSS)** | 2, 8, 9             |
-| **JavaScript (Vanilla + DOM)**   | 1, 3, 4, 5, 10, 11  |
+| Technology                     | Projects (indices) |
+| ------------------------------ | ------------------ |
+| **React**                      | 6, 7, 12           |
+| **Static Pages (HTML/CSS)**    | 2, 8, 9            |
+| **JavaScript (Vanilla + DOM)** | 1, 3, 4, 5, 10, 11 |
 
 ---
 
-## 3. Cómo trabajar con submódulos
+## 3. How to Work with Submodules
 
-1. Clona este repositorio con todos los submódulos:
-
+1. Clone this repository with all submodules:
    ```bash
    git clone --recursive git@github.com:manulzvz/learning.git
    ```
 
-2. Si ya lo clonaste sin `--recursive`, inicializa y descarga:
+````
+
+2. If you already cloned it without `--recursive`, initialize and download:
 
    ```bash
    git submodule update --init --recursive
    ```
 
-3. Para agregar nuevos proyectos:
+3. To add new projects:
 
    ```bash
-   git submodule add <URL-del-repo> <carpeta-destino>
-   git commit -m "Agrega <nombre-proyecto> como submódulo"
+   git submodule add <repo-URL> <destination-folder>
+   git commit -m "Add <project-name> as submodule"
    git push
    ```
+
+
+````
